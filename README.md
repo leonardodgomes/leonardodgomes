@@ -46,6 +46,26 @@ A curated structure designed for clarity, reuse, and storytelling.
 - **Specialties**: Data Modeling • Optimization • Modernization • Technical Demos
 
 
+## 📚 What I’m Learning Now
+
+- Advanced Databricks engineering patterns
+- Spark optimization techniques
+- Building reusable data quality frameworks
+- Technical storytelling & demo design for SE roles
+- How to translate technical solutions into business value
+
+
+## 🎤 Presentations & Demo Scripts
+
+As part of my Sales Engineering transition, I’m building a library of:
+
+- Lakehouse architecture walkthroughs
+- Delta Lake deep dives
+- Power BI + Databricks integration demos
+- Technical storytelling frameworks
+- Demo scripts designed for customer conversations
+
+These help me practice explaining complex systems in simple, business-focused ways.
 
 
 <br><br><br>
