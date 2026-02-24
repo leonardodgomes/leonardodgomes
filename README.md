@@ -1,6 +1,6 @@
 # 🌟 Leonardo Gomes
 
-**Data Engineer & Analytics Sales Engineer**
+**Data Engineer**
 
 *Databricks • PySpark • Delta Lake • Power BI • Lakehouse Architecture*
 
