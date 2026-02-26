@@ -26,13 +26,10 @@ This GitHub is my **central hub**: a place where I learn, build, document, and s
 A curated structure designed for clarity, reuse, and storytelling.
 
 ```
-01-learning/          → My public learning hub (Databricks, Spark, Delta, Python)
 02-reusable-code/     → Utility functions, templates, and engineering patterns
 03-projects/          → End-to-end data engineering projects
 04-portfolio/         → Case studies, architecture diagrams, demo scripts
 05-family-projects/   → Personal projects
-06-presentations/     → Slide decks & demos for sales engineering
-99-archive/           → Old content, experiments, and drafts
 
 ``` 
 
@@ -61,7 +58,7 @@ As part of my Sales Engineering transition, I’m building a library of:
 
 - Lakehouse architecture walkthroughs
 - Delta Lake deep dives
-- Power BI + Databricks integration demos
+- Power BI
 - Technical storytelling frameworks
 - Demo scripts designed for customer conversations
 
