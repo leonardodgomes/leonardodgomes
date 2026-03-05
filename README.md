@@ -64,6 +64,11 @@ As part of my Sales Engineering transition, I’m building a library of:
 
 These help me practice explaining complex systems in simple, business-focused ways.
 
+<br><br>
+
+## 🔗 [Essential Documentation Links](https://github.com/leonardodgomes/02-reusable-code-main/blob/34049bb5644fb1e88ce1d880a3453115a960755d/essential_documentation_links.md)
+
+
 
 <br><br><br>
 
